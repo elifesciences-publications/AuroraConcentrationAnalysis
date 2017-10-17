@@ -9,4 +9,3 @@ The following is the description of the codes:
 
 2. Dist_vs_INCENP_avg-ALL.ipynb averages the line profiles in different groups of kinetochore pairs with different ranges of K-K distance. It generates plots of the average line profiles, and charateristics of the average line profiles (e.g. peak intensity, width, total intensity, intensity at kinetochore) as a function of K-K distance.
 
-3. DrawProfile.ipynb generates publication-ready plots of line profiles.
