@@ -9,5 +9,5 @@ The following is the description of the codes:
 
 2. Dist_vs_INCENP_avg.ipynb (1) imports the outputs from track_pair_lineprofs.ipynb and INCENP-mCherry images; (2) measures INCENP-mCherry intensities at NDC80; (3) normalizes the INCENP-mCherry intensity at NDC80 based on the INCENP-mCherry intensity at the midpoint between sister kinetochores and cytoplasmic background on cell-to-cell basis; and (4) averages the normalized intensities within groups of kinetochores with similar K-K distances. 
 
-3. PlotAnalysisResults.ipynb generates plots of analysis results, and performs model fitting and statistical tests.
+3. PlotAnalysisResults.ipynb plots the analysis results, and performs model fitting and statistical tests.
 
