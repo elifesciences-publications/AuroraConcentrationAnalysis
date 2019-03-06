@@ -1,3 +1,7 @@
+
+
+### This code is associated with the paper from Yoo et al., "Measuring NDC80 binding reveals the molecular basis of tension-dependent kinetochore-microtubule attachments". eLife, 2018. http://dx.doi.org/10.7554/eLife.36392
+
 # AuroraConcentrationAnalysis
 Python codes to measure and analyze the intensity of INCENP-mCherry the location of NDC80 labeled with GFP
 
